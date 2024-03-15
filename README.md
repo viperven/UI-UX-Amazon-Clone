@@ -1,4 +1,7 @@
 Amazon Front Page Clone
+
+LIVE : https://viperven.github.io/UI-UX-Amazon-Clone/
+
 This project is a clone of the Amazon front page, focusing on the user interface (UI) and user experience (UX) aspects. It is implemented purely using HTML and CSS, without relying on any external libraries or frameworks.
 
 Preview
